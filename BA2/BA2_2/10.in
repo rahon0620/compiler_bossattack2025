@@ -1,0 +1,1 @@
+SELECT id, -5, 07, -003, -0 FROM numbers WHERE value > -10;

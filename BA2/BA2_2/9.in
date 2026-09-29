@@ -1,0 +1,5 @@
+-- This is a single line comment
+SELECT /* This is a
+   comment spanning multiple lines */ id
+FROM accounts; -- This is a comment at the end of a line
+/* Becareful /* Nested comment */ ! */

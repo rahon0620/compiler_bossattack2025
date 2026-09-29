@@ -1,0 +1,1 @@
+SELECT * FROM data WHERE value > 10 AND value <= 20 OR value != 30;

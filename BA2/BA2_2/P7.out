@@ -1,0 +1,10 @@
+KEYWORD
+SELECT
+STRING
+string with -- and /* symbols
+KEYWORD
+FROM
+IDENTIFIER
+test
+PUNCTUATION
+;

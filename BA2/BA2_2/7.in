@@ -1,0 +1,1 @@
+SELECT 'string with -- and /* symbols' FROM test;
